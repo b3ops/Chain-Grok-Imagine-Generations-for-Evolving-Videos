@@ -19,7 +19,7 @@ A simple Python tool to chain short video generations from Grok Imagine (xAI's A
 
 2. **Clone & Run**:
 
-   git clone https://github.com/yourusername/grok-video-chainer.git
+   git clone https://github.com/b3oPs/grok-video-chainer.git
    cd grok-video-chainer
    python video_chainer.py --input_video your_start.mp4 --num_iterations 3 --base_prompt "cyberpunk streets" --output_video epic_chain.mp4
 
